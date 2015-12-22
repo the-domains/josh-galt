@@ -1,0 +1,28 @@
+name: Josh Galt
+favicon: null
+layout_spectrum: 0.5868737241253257
+typography_spectrum: 0.0077148801647126675
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9696933992672712
+  lightness: 0.97914805309847
+  saturation: 0.11815652647055686
+  rhythmicContrast: 0.20611506677232683
+purpose: []
