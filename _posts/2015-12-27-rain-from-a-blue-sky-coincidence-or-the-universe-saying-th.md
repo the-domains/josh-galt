@@ -6,32 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'It was  either coincidence or some kind of universal statement of gratitude.  Everything is energy, and everything is connected…so I’ll go with the latter.'
-datePublished: '2015-12-27T05:43:17.346Z'
-dateModified: '2015-12-27T05:41:38.585Z'
+datePublished: '2015-12-27T05:47:20.777Z'
+dateModified: '2015-12-27T05:47:06.811Z'
 title: Rain from a blue sky – coincidence or the Universe saying thank you?
 author: []
+sourcePath: _posts/2015-12-27-rain-from-a-blue-sky-coincidence-or-the-universe-saying-th.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-27-rain-from-a-blue-sky-coincidence-or-the-universe-saying-th.md
-published: true
 url: rain-from-a-blue-sky-coincidence-or-the-universe-saying-th/index.html
 _type: Article
 
 ---
-null
-null
-null
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2b2dfa36dd6ed088e5b4d24bf7e6f1ff/passthrough.jpg?height=600&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fcaa7a9fc2cb23881c046bedd8563aa778b36cce6.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/787c0174-e4fb-452f-9087-d983c14f5673.jpg)
-null
-null
-
-In the middle of lunch on a beautiful sunny day, completely randomly 
-my girlfriend stops, has an intense moment of thought, and then makes a 
-little dish of food and sets it out on our balcony. 
 
 She's Buddhist, which isn't even supposed to be a religion (according
 to the Buddha himself), but whatever. These days I pretty much dismiss 
