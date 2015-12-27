@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Artist, athlete, & entrepreneur chasing sunshine & h2o]]></title>
         <description><![CDATA[Artist, athlete, & entrepreneur chasing sunshine & h2o]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/josh-galt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Dec 2015 05:16:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 27 Dec 2015 05:43:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/josh-galt/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rain from a blue sky – coincidence or the Universe saying thank you?]]></title>
+            <description><![CDATA[<article><h1>Rain from a blue sky – coincidence or the Universe saying thank you?</h1><p>null</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/caa7a9fc2cb23881c046bedd8563aa778b36cce6.jpg"></article>]]></description>
+            <link>https://thegrid.ai/josh-galt/rain-from-a-blue-sky-coincidence-or-the-universe-saying-th/index.html</link>
+            <guid isPermaLink="false">97be815c-fae3-423b-8db8-fa1f38be4f58</guid>
+            <pubDate>Sun, 27 Dec 2015 05:43:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/30633b5f-0a8f-43ab-a91d-597524487290.jpg">]]></description>
-            <link>undefined931e2a81-673b-4f84-99a9-72977d2095a8/index.html</link>
+            <link>https://thegrid.ai/josh-galt/931e2a81-673b-4f84-99a9-72977d2095a8/index.html</link>
             <guid isPermaLink="false">931e2a81-673b-4f84-99a9-72977d2095a8</guid>
             <pubDate>Sun, 27 Dec 2015 05:16:53 GMT</pubDate>
         </item>
